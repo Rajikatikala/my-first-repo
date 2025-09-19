@@ -1,0 +1,5 @@
+My name is Raji
+And my course is BCA
+github  means a web based platform
+for software developers to host git
+Repositories.
